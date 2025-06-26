@@ -1,4 +1,4 @@
-![logo]((https://github.com/Prity-kumari1/Prity-kumari1/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png))
+![logo](https://github.com/Prity-kumari1/Prity-kumari1/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <!--ABOUT ME-->
 # Hey, 👋 I'm Shivam Shriwastava:
  👨‍💻 A passionate Full Stack Developer.<br><br>🔧 I build dynamic web apps using *React.js, Node.js, Express.js, MongoDB, and love writing clean & efficient code.<br><br>💻 Skilled in **Java and DSA*, with a strong focus on logic and performance.<br><br>🚀 Constantly building real-world projects and crafting meaningful user experiences.<br><br>🧠 I enjoy blending logic with creativity to create scalable, user-friendly solutions.<br>
